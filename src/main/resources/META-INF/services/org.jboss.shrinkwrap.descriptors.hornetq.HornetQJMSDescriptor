@@ -1,0 +1,2 @@
+implClass=org.jboss.shrinkwrap.descriptors.hornetq.HornetQJMSDescriptor
+importerClass=org.jboss.shrinkwrap.descriptor.impl.base.XMLImporter
